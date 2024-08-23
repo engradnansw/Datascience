@@ -1,5 +1,5 @@
-# Datascience
-Simple text
+# Data science
+#### Techincal Skills: MS Power BI, SQL, Database Management
 ## Education
 
 ## Work Experience 1
