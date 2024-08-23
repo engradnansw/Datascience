@@ -9,7 +9,7 @@
 - ORACLE CERTIFIED PROFESSIONAL (OCP) of Oracle Database 10g with DBA (Database Administrator)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
+**Senior Manager Database @ Indus Hospital & Health Network (_Dec 2020 - Present_)**
 - Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
 - Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
 
