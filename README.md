@@ -1,11 +1,11 @@
 # Datascience
+Simple text
+## Education
 
-### Education
+## Work Experience 1
+## Work Experience 2
+## Work Experience 3
 
-### Work Experience 1
-### Work Experience 2
-### Work Experience 3
-
-### projects
+## projects
 
 # Certifications
