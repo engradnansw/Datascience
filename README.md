@@ -10,47 +10,102 @@
 
 ## Work Experience
 **Senior Manager Database @ Indus Hospital & Health Network (_Dec 2020 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+- Managing donor management system using Microsoft Dynamics CRM 365.
+-	Automate the process of issuance of instant receipt, SMS and email to donors 
+-	Train staff on the use of donor management system.
+-	Developed different dashboard and reports so resource development can see their progress in real time.
+-	Connected Microsoft Dynamics with Microsoft Power BI and convert raw data into valuable insights.
+-	Developed more than twenty (20) dashboards in MS Power BI for different levels with more detailed insights about the donors and donations.
+-	Communicate important information and insights to Senior management.
+-	Analyze data from multiple angles, looking for trends that highlight problems and opportunities.
+-	Make recommendations to adopt existing strategies.
+-	Use insights to influence how to overcome with different challenges.
+-	
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Data Scientist @ Fiverr.com (_January 2017 - Present_)**
+  [Fiverr Profile Link](https://www.fiverr.com/engradnansw)
+- Completed more than 300 Projects.
+-	Developed different dashboards using Microsoft Power BI including HR, Project Management, Financials, Budget vs Actual, Income Statement, Cash Flow, Balance sheet etc.
+-	Connected MS Power BI with different data sources (i.e. MS Excel, Oracle, Mysql, Sharepoint, OneDrive, Postgres, MS SQL Server etc.)
+-	worked closely with different businesses to identify issues and used data to propose solutions for effective decision making.
 
-## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+**Database Expert/Data Scientist @ Development Alternatives Incorporated (DAI) (_October 2015 - December 2020_)**
+- I am responsible to update the grants database, ensuring compliance with USAID/OTI and DAI standard practices and regulations.
+-	I collaborate with USAID/OTI on customization and localization of the grants database.
+-	I review and monitor activity database information for accuracy, consistency and completeness to ensure database integrity.
+-	I am responsible to synchronize master activity database between USAID/OTI and DAI office databases on a weekly basis.
+-	I train staff on the use of the grants database.
+-	I support and advise in the planning and implementation of additions, deletions and major modifications to the IT infrastructure.
+-	I support and advise the administration and maintenance of computers, servers, peripherals and software
+-	Develop the complete project analysis system using Microsoft Power Bi
+-	Generated different types of Dashboards using Microsoft Power Bi 
+-	Support the Program Director in working closely with field offices to ensure that information is communicated to field teams in a timely manner and required reports are completed and distributed on schedule.
+-	Liaise with Finance Section on a weekly and monthly basis to financially reconcile grants and upload financial data in the Database.
+-	Serve as the point of contact with the donor on database specific, GIS, and online database issues; liaise on any database modifications, changes and need for troubleshooting.
+-	Assist all departments with any grant database reporting needs. 
+-	Conduct routine data quality checks to ensure accuracy and up to date data.
+-	Other special projects and reporting as necessary to ensure proper grant implementation and operation. 
+-	Installed, Configured and supported inter office LAN and WAN network.
+-	Installed, Configured and supported windows file server and Print server.
+-	Configured the DHCP Server, DNS Server, and Proxy Server on windows.
+-	Server management, controlling unauthorized access from department to department critical resources.
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+**Database Officer @ Createive Associates International (_March 2014 - October 2015_)**
+-	Design and Development of standardized database systems for new projects.
+-	Extraction of data from project level database on weekly bases to upload on OTI Website.
+-	Administration of Project database (Performance Tuning)
+-	Train the PDOs, GOs and GAs that how to use database and generate reports.
+-	Responsible for Backup and Recovery.
+-	Implementation of data guard for High availability of Database.
+-	Support the Program Director in working closely with field offices to ensure that information is communicated to field teams in a timely manner and required reports are completed and distributed on schedule.
+-	Liaise with Finance Section on a weekly and monthly basis to financially reconcile grants and upload financial data in the Database.
+-	Provide uploaded Database to all staff and the donor on a weekly basis.
+-	Serve as the point of contact with the donor on database specific, GIS, and online database issues; liaise on any database modifications, changes and need for troubleshooting.
+-	Assist all departments with any grant database reporting needs. 
+-	Conduct routine data quality checks to ensure accuracy and up to date data.
+-	Other special projects and reporting as necessary to ensure proper grant implementation and operation. 
+-	Installed, Configured and supported inter office LAN and WAN network.
+-	Installed, Configured and supported windows file server and Print server.
+-	Configured the DHCP Server, DNS Server, and Proxy Server on windows.
+-	I was accountable for providing real time support to client computes
+-	I had resolved all major issue of client sides like login error, printing dilemma, and connectivity problem
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+**Database Officer @ ACTED (Agency for Technical Development and Cooperation) (_August 2012 - March 2014_)**
+-	Design and Development of standardized database systems for new projects.
+-	Extraction of data from project level database on monthly bases to send to Database Coordinator Islamabad.
+-	Undertake Monthly review meetings with project coordinator of project under way to ensure consistency of data/ information between program and database.
+-	Preparation of summary and detailed report (Monthly Data Collection, 3W & 4W Matrices, Output Tracker etc)
+-	Responsible for data cleaning i.e. to check invalid, out of range, out	
+Layer, duplicate values
+-	Responsible for data Standardization i.e. column merging, data
+Merging
+-	Responsible for the oversight all database activities and managing all database staff in main base as well sub bases.
+- Responsible to apply scoring criteria to select potential beneficiaries and Generate Potential beneficiary’s lists, Distribution lists and Payment sheets etc. 
+-	Handled large data entry operations.
+-	Trained the data entry operators and database supervisors.
+-	Monitoring & facilitation visits for effective and smoothness of day to day database activities at all bases. 
+-	Prepare log sheet before dispatch data to Islamabad.
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+**Database Administrator @ Agriteam Canada consulting Funded by CIDA  (_August 2010 - March 2012_)**
+-	Design and developed data entry software (by using MS Access 2007) for our organization for large data entry Through Bar code scanner.
+-	Design and assign coding schemes for district, Towns, profession, medical centers etc. 
+-	Responsible for data cleaning i.e. to check invalid, out of range, out	
+Layer, duplicate values
+-	Responsible for data Standardization i.e. column merging, data
+Merging
+-	Preparing data reports daily, weekly, monthly basis and site wise
+Creating charts graphs and pivot tables in excel
+-	I was responsible for development of new procedures and packages for implementing the new requirements of database data entries.
+-	To collect data from all districts then merge & import to main Database for analysis.
+-	Prepared questioners error report filed supervisor wise. 
+-	Analyze and generate different types of Reports of Seven Districts data at PDCU Karachi. 
+-	Handled large data entry operations.
+-	Trained the data entry operators and data editors.
+-	Monitoring & facilitation visits for effective and smoothness of 
+day to day database activities at Data Management Units 
+-	Manage and update the website of Sindh AIDS control program (SACP). 
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
 
-![Bike Study](/assets/img/bike_study.jpeg)
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+  
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
-
-## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
-
-- [Data Science Blog](https://medium.com/@shawhin)
